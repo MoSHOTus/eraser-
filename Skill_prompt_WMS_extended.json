@@ -1,0 +1,122 @@
+[
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Start</Node><Node>Preprocess Image</Node><Node>Generate Description</Node><Node>End</Node><Node>Start</Node><Node>Start</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Get Image</Node><Node>Generate Description</Node><Node>Get Image</Node><Node>Preprocess Image</Node><Node>Feature Extraction</Node><Node>End</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>End</Node><Node>Object Detection</Node><Node>Start</Node><Node>Get Image</Node><Node>Feature Extraction</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Preprocess Image</Node><Node>Feature Extraction</Node><Node>Get Image</Node><Node>Preprocess Image</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Start</Node><Node>Preprocess Image</Node><Node>Get Image</Node><Node>Generate Description</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Feature Extraction</Node><Node>Preprocess Image</Node><Node>Object Detection</Node><Node>Feature Extraction</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Preprocess Image</Node><Node>Feature Extraction</Node><Node>Start</Node><Node>Generate Description</Node><Node>Get Image</Node><Node>Start</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Start</Node><Node>Preprocess Image</Node><Node>End</Node><Node>Get Image</Node><Node>Generate Description</Node><Node>Object Detection</Node><Node>Feature Extraction</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Start</Node><Node>Get Image</Node><Node>Preprocess Image</Node><Node>Get Image</Node><Node>Preprocess Image</Node></BlockDiagram>"
+            }
+        ]
+    },
+    {
+        "Dialogue": [
+            {
+                "Role": "User",
+                "Content": "Could you generate a block diagram for the image analysis workflow?"
+            },
+            {
+                "Role": "Genius",
+                "Content": "<BlockDiagram><Node>Generate Description</Node><Node>Preprocess Image</Node><Node>Generate Description</Node><Node>Preprocess Image</Node></BlockDiagram>"
+            }
+        ]
+    }
+]

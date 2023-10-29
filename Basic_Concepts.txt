@@ -1,0 +1,5 @@
+Machine Learning: It is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.
+
+Deep Learning: It is a subset of machine learning where neural networks — algorithms inspired by the human brain — learn from large amounts of data. Deep learning is able to learn through its own method of computing, its own 'neural network'.
+
+Neural Networks: Inspired by the biological neural networks, these are a series of algorithms that capture the pattern of the data by modeling the human brain. It interprets sensory data through a kind of machine perception, labeling or clustering raw input.

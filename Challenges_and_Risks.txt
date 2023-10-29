@@ -1,0 +1,5 @@
+Bias and fairness: AI systems learn from the data they are trained on. If this data is biased or unfair, then the AI system is likely to be biased or unfair too.
+
+Transparency and explainability: AI systems, particularly those based on complex machine learning models, can be difficult to understand. This lack of transparency and explainability can make it hard to trust AI systems, particularly in sensitive areas like healthcare or finance.
+
+Security: AI systems can be used for malicious purposes, or they can be targeted by malicious actors. Ensuring the security of AI systems is a major challenge.

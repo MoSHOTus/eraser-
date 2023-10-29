@@ -1,0 +1,15 @@
+Introduction:
+Here's a draft of the prompt: ["Hello Genius, your task today is to develop a complex set of tasks related to complex skill building processes
+
+Defining Key Components:
+This includes completing both the textual and engineering building blocks that make up the workflow
+
+Workflow Definition:
+You will need to represent the entire process as a detailed flowchart with all parameters and data that can be used for customization in the MindOS platform's Process Builder, the goal is to simplify the creation of complex AI assistants with non-standard skills
+
+Creating a Flowchart:
+Start by defining the key components and parameters of the skill you are creating
+
+Finalizing the Flowchart:
+Then move on to defining the workflow by creating and filling in the building blocks
+

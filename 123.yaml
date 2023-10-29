@@ -1,0 +1,47 @@
+﻿diagram:
+  title: "Пример диаграммы"
+  description: "Тестовая диаграмма для импорта"
+  nodes:
+    - id: 1
+      type: "rectangle" 
+      x: 100 
+      y: 100
+      width: 80
+      height: 40
+      label: "Прямоугольник"
+
+    - id: 2 
+      type: "ellipse"
+      x: 300 
+      y: 200
+      width: 120
+      height: 80
+      label: "Эллипс"
+
+    - id: 3
+      type: "rhombus"
+      x: 500
+      y: 150
+      width: 100
+      height: 60
+      label: "Ромб"
+
+  edges:
+    - from: 1
+      to: 2
+
+    - from: 2
+      to: 3
+  
+  styles:
+    - for: rectangle
+      color: "#FF0000"
+      stroke: 2
+    
+    - for: ellipse
+      color: "#00FF00"
+      stroke: 4
+    
+    - for: rhombus
+      color: "#0000FF"
+      stroke: 1

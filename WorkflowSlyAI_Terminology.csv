@@ -1,0 +1,24 @@
+Term,Definition
+Concepts,Elementary units of knowledge in the system
+Predicates,Statements about relationships between concepts
+Knowledge Graph,A graph data structure for storing concepts and predicates
+Vector Representation,Representation of concepts as vectors in a multidimensional space
+Embedding,Transformation of objects into vector representation
+Transformers,Neural network architecture for processing sequences (text)
+Attention Mechanism,Highlighting relevant parts of the context at the current moment
+Logical Inference,Constructing new statements by applying rules of inference
+Planning,Constructing a sequence of actions to achieve a goal
+Analogies,Transferring knowledge from one domain to another by analogy
+Skills,Fixed workflows for solving specific tasks
+Reinforcement Learning,Method of AI learning based on rewards and punishments
+Imitation Learning,Learning by imitating the behavior of an expert
+Transfer Learning,Transferring knowledge gained when solving one task to other similar tasks
+Multitask Learning,"Learning on several different, but related tasks at once"
+Meta-learning,"Learning to learn, developing general learning strategies"
+Modularity,Dividing the system into separate modules with clearly defined interfaces
+Compositionality,Combining simple skills into more complex ones
+Automation,Performing routine tasks without human intervention
+Orchestration,Coordinating the execution of a sequence of tasks by different modules
+MindOS Architecture,The structure and components of the MindOS platform
+Pioneer Workspace,A workspace provided by MindOS for skill and workflow development
+Constitutional AI,"The concept of AI with controlled behavior, error analysis, and interpretability"

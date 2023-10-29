@@ -1,0 +1,29 @@
+{
+    "title": "WorkflowSlyAI Design and Implementation Guide",
+    "sections": [
+        {
+            "title": "Defining Key Components and Parameters",
+            "content": "Start by defining the key components such as states, transitions, conditions, etc. Explain each component and parameter in detail, including its purpose and how it affects the workflow."
+        },
+        {
+            "title": "Setting Up Workflows",
+            "content": "Describe the process of setting up workflows, including creating and filling in the building blocks. Discuss the importance of the 'next' property and how it controls the flow of execution in the workflow."
+        },
+        {
+            "title": "Managing Dependencies",
+            "content": "Discuss how dependencies between states are managed in the workflow. Explain how the 'next' property can be used to define a choice state, and how the conditions in the choice rules affect the flow of execution."
+        },
+        {
+            "title": "Handling Errors",
+            "content": "Explain the importance of error handling in workflows. Discuss how errors are handled using the 'catch' property of the state, and how it affects the transition to the next state."
+        },
+        {
+            "title": "Workflow Examples",
+            "content": "Provide detailed examples of workflows using the components and parameters defined earlier. Show how to set up a workflow, manage dependencies, and handle errors."
+        },
+        {
+            "title": "Best Practices",
+            "content": "Discuss the best practices for creating and managing workflows. Offer tips and advice on how to structure workflows, manage dependencies, and handle errors effectively."
+        }
+    ]
+}
